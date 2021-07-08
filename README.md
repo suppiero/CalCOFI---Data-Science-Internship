@@ -5,5 +5,5 @@ Summer Internship Project for the Central Coast Data Science Partnership at UCSB
 * Piero Trujillo
 * Kaylin Roberts
 * Elliot So
-* Natalie Fenkner
+* Natalie 
 * Corbin Ulloa 
